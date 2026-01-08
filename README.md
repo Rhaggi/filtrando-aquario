@@ -1,8 +1,8 @@
 
 # 🐠 Projeto Aquarium — Histórico de Versões
 
-Este projeto carrega o arquivo `aquarium.json`, processa os animais e cria novas versões do aquário **sem modificar o arquivo original**.  
-Cada nova versão é salva automaticamente em uma pasta `snapshots/`.
+Este projeto carrega o arquivo de informações dos peixes do aquário, processa os animais e cria novas versões do aquário **sem modificar o arquivo original**.  
+Cada nova versão é salva automaticamente em uma pasta separada.
 
 
 ## ▶️ Como executar o projeto
